@@ -1,0 +1,1 @@
+screen -dmS PalServer bash -c '/home/steam/Steam/steamapps/common/PalServer/PalServer.sh'
