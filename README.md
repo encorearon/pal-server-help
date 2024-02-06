@@ -11,7 +11,9 @@ sudo -u steam -s
 cd /home/steam
 ```
 - centos下将steam账号加入sudo组
+```
 sudo usermod -aG wheel steam
+```
 
 - 切换为steam
 ```
