@@ -20,7 +20,9 @@ sudo usermod -aG wheel steam
 su steam
 ```
 - 安装gcc
+```
 sudo yum install glibc.i686 libstdc++.i686
+```
 
 - 创建Steam目录
 ```
