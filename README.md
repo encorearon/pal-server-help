@@ -25,12 +25,15 @@ sudo yum install glibc.i686 libstdc++.i686
 mkdir ~/Steam && cd ~/Steam
 ```
 - 下载并解压
+```
 curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
+```
 
 - 执行SteamCMD
+```
 cd ~/Steam
 ./steamcmd.sh
-
+```
 
 ## 安装PAL
 内容源自https://tech.palworldgame.com/dedicated-server-guide
